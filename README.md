@@ -2,7 +2,7 @@
 
 <div align=center>
 
-##### 협업과 기술 적응에 자신 있는 개발자로, <br/> 팀과 함께 성장하며 끊임없이 변화하는 기술 환경에 발맞춰 나갈 수 있습니다.
+### 협업과 기술 적응에 자신 있는 개발자로, <br/> 팀과 함께 성장하며 끊임없이 변화하는 기술 환경에 발맞춰 나갈 수 있습니다.
 
 ##  🛠 기술스택
 <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white"/>
