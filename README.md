@@ -15,7 +15,9 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=plastic&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=plastic&logo=react&logoColor=white"/>
-
+<br/>
+<img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=plastic&logo=amazonec2&logoColor=white"/>
 
 ## 👨‍👩‍👧‍👧 프로젝트
 
