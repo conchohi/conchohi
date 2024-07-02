@@ -18,7 +18,8 @@
 
 ## 👨‍👩‍👧‍👧 프로젝트
 2024.02 ~ 2024.04 <br/>
-Giftti![Logo](https://github.com/conchohi/conchohi/assets/156064008/b5ada0ab-81ae-4c54-aad6-5edb35a63f95)
+Giftti<img src="https://github.com/conchohi/conchohi/assets/156064008/aa6d13c8-3bbb-4283-b2c0-07d4e7259f40" width=30 height=30/>
+
 
 
 </div>
