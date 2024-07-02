@@ -21,10 +21,10 @@
 <img src="https://github.com/conchohi/conchohi/assets/156064008/aa6d13c8-3bbb-4283-b2c0-07d4e7259f40" width=20 height=20/> [Giftti](https://github.com/conchohi/giftti)   <br/>
 
 2024.04 ~ 2024.05 <br/>
-<img src="https://github.com/conchohi/conchohi/assets/156064008/c76ebe63-d2eb-44f5-9414-1d6debd83ff0" width=20 height=20/> [Modak](https://github.com/conchohi/giftti)   <br/>
+<img src="https://github.com/conchohi/conchohi/assets/156064008/c76ebe63-d2eb-44f5-9414-1d6debd83ff0" width=20 height=20/> [Modak](https://github.com/conchohi/modak_backend)   <br/>
 
 2024.05 ~ 2024.06 <br/>
-<img src="https://github.com/conchohi/conchohi/assets/156064008/90362830-3096-497b-b784-5e03188d4967" width=20 height=20/> [우리집 Beer](https://github.com/conchohi/giftti)   <br/>
+<img src="https://github.com/conchohi/conchohi/assets/156064008/90362830-3096-497b-b784-5e03188d4967" width=20 height=20/> [우리집 Beer](https://github.com/conchohi/beer_backend)   <br/>
 
 
 
